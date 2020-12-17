@@ -1,5 +1,8 @@
 .container {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
+}
+#fixed-nav {
+  margin-top: 100px;
 }
 .buy-btn {
   border: none;
@@ -23,4 +26,33 @@
 .card-footer {
   border: none;
   background-color: white;
+}
+/* .set-category {
+  border-bottom: 3px solid tomato;
+  width: 100px;
+  margin-left: %;
+} */
+.footer h4 {
+  border-bottom: 3px solid tomato;
+  width: 110px;
+  margin-left: 45%;
+}
+.footer-image {
+  height: 140px;
+  width: 130px;
+  margin: 15px 5px 8px 0px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px lightgrey;
+}
+.footer-image img {
+  height: 100px;
+  width: 100%;
+  padding-top: 20px;
+}
+.footer-image h6 {
+  text-align: center;
+  padding-top: 10px;
+}
+.footer-logo img {
+  width: 100%;
 }
